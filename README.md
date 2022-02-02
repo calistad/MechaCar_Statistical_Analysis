@@ -9,7 +9,7 @@ We will perform linear regression analysis, collect summary statistics from the 
 
 ## Linear Regression to Predict MPG
 
-According to our results, vehicle length and ground clearance, as well as intercept are statistically unlikely to provide random amounts of variance to the linear model.
+According to our results, vehicle length and ground clearance, as well as intercept are statistically unlikely to provide random amounts of variance to the linear model. They have a significant impact on mpg.
 
 ![Screen Shot 2021-11-27 at 6 07 39 PM](https://user-images.githubusercontent.com/88747464/143728719-2ab41845-d86a-469a-ad8b-d11259939a8f.png)
 
