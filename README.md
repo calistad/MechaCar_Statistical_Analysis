@@ -2,10 +2,9 @@
 
 ## Overview
 
-AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles. 
+AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles, We will use data with different approaches provide insights. 
 
 We will perform linear regression analysis, collect summary statistics from the manufacturing lots, run t-tests, and design a statistical study to compare vehicle performance.
-
 
 ## Linear Regression to Predict MPG
 
