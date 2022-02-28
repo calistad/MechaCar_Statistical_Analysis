@@ -1,4 +1,4 @@
-# MechaCar-Statistical-Analysis
+# MechaCar Statistical Analysis
 
 ## Overview
 
